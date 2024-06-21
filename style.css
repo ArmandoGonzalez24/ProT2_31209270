@@ -1,0 +1,35 @@
+
+
+body {
+    padding-top: 56px;
+    background-color: rgb(93,140,231);
+    background: linear-gradient(90deg, rgba(93,140,231,0.9697128851540616) 10%, rgba(0,151,255,1) 56%, rgba(0,5,36,1) 100%);
+}
+
+/* Estilos para las tarjetas */
+.card-deck .card {
+    margin-bottom: 30px;
+    background: rgb(207, 212, 222);
+    background: linear-gradient(90deg, rgba(93,140,231,0.9697128851540616) 10%, rgba(0,151,255,1) 56%, rgba(0,5,36,1) 100%);
+}
+.card-body {
+    background: rgb(245, 245, 245);
+    background: linear-gradient(90deg, rgba(208, 214, 224, 0.97) 10%, rgb(208, 213, 216) 56%, rgba(0,5,36,1) 100%);
+}
+.tiny5-regular {
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .custom-h1 {
+    font-family: 'Tiny5', sans-serif; 
+    text-align: center;
+    ;
+  }
+
+    
+
+
+
+
+
